@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_message">¡Bienvenido a nuestra aplicación!</string>
+    <string name="find_features">Aquí puedes encontrar las mejores características.</string>
+    <string name="amazing_experience">¡Asegura tu increíble experiencia ahora!</string>
+</resources>
